@@ -6,6 +6,9 @@ Transitioning into **Data Analytics** after several years in marketing and busin
 
 ### 📊 Featured Projects
 
+**[Global Sustainable Energy Dashboard](https://github.com/Thibouto/sustainable-energy-dashboard)** — Tableau Public
+Interactive dashboard on global sustainable energy indicators (176 countries, 2000-2020): electricity access, energy mix, renewable share growth, and CO2 emissions vs GDP per capita.
+
 **[Quantium Retail Analytics](https://github.com/Thibouto/Quantium-retail-analytics)** — Professional project (Forage)
 Customer segmentation and store-layout uplift testing for a retail chips category. Identified the highest-value customer segment and validated a trial layout via statistical testing.
 
